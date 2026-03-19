@@ -10,7 +10,11 @@ wheels/
 .venv
 
 # Arquivos PDF
+<<<<<<< HEAD
 .pdf
 
 # Secrets
 .env
+=======
+.pdf
+>>>>>>> e220bdbed89d519e551cec42759d1fbecbfe3b08
