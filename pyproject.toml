@@ -1,0 +1,32 @@
+[project]
+name = "llm-01"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "docling>=2.77.0",
+    "dotenv>=0.9.9",
+    "edgartools>=5.23.4",
+    "fastapi>=0.135.1",
+    "groq>=1.0.0",
+    "hdbscan>=0.8.41",
+    "langextract>=1.1.1",
+    "nltk>=3.9.3",
+    "numpy>=2.4.2",
+    "openai>=2.26.0",
+    "pydantic>=2.12.5",
+    "python-dotenv>=1.2.2",
+    "qdrant-client[fastembed]>=1.17.0",
+    "rank-bm25>=0.2.2",
+    "scikit-learn>=1.8.0",
+    "sentence-transformers>=5.2.3",
+    "uvicorn>=0.42.0",
+    "whoosh>=2.7.4",
+    "yfinance>=1.2.0",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.2.0",
+]
