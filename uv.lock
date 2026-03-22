@@ -35,7 +35,6 @@ wheels = [
 ]
 
 [[package]]
-<<<<<<< HEAD
 name = "aiofiles"
 version = "25.1.0"
 source = { registry = "https://pypi.org/simple" }
@@ -45,8 +44,6 @@ wheels = [
 ]
 
 [[package]]
-=======
->>>>>>> e220bdbed89d519e551cec42759d1fbecbfe3b08
 name = "aiohappyeyeballs"
 version = "2.6.1"
 source = { registry = "https://pypi.org/simple" }
@@ -481,7 +478,6 @@ wheels = [
 ]
 
 [[package]]
-<<<<<<< HEAD
 name = "curl-cffi"
 version = "0.13.0"
 source = { registry = "https://pypi.org/simple" }
@@ -503,8 +499,6 @@ wheels = [
 ]
 
 [[package]]
-=======
->>>>>>> e220bdbed89d519e551cec42759d1fbecbfe3b08
 name = "debugpy"
 version = "1.8.20"
 source = { registry = "https://pypi.org/simple" }
